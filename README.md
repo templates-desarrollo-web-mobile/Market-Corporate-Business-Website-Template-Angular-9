@@ -12,5 +12,6 @@ Saludos, a continuación les comparto un template que acabo de adaptar
  - **Preview:** https://market-corporate-business-website-template-angular-9-5m9uqwp8d.now.sh/
 
  
-
+# Creditos
+- **Autor del template:** W3layout
 
