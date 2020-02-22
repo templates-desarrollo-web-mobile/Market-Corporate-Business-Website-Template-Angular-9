@@ -9,7 +9,7 @@ Saludos, a continuación les comparto un template que acabo de adaptar
 
  - **Versión:** Angular 9
  - **Template original:** https://w3layouts.com/market-website-template/
- - **Preview:** https://admin-lite-angular-9-re3kn5y92.now.sh/
+ - **Preview:** https://market-corporate-business-website-template-angular-9-5m9uqwp8d.now.sh/
 
  
 
