@@ -15,3 +15,6 @@ Saludos, a continuación les comparto un template que acabo de adaptar
 # Creditos
 - **Autor del template:** W3layout
 
+# Recomendación
+Puedes hacer uso de la presente adaptación en tus proyectos pero se pide pór favor mantener los créditos del creador del template original o adquirir la licencia en el siguiente enlace: https://w3layouts.com/market-website-template/
+
